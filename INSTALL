@@ -1,0 +1,9 @@
+Building BitcoinEA
+
+See doc/readme-qt.rst for instructions on building BitcoinEA QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinEA.
+
+See doc/build-*.txt for instructions on building bitcoinead,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinEA.
